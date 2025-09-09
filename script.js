@@ -3,7 +3,7 @@ const flags = [
   { negara: "JEPANG", img: "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" },
   { negara: "AMERIKA SERIKAT", img: "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" },
   { negara: "PRANCIS", img: "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" },
-  { negara: "BRASIL", img: "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" },
+  { negara: "BRAZIL", img: "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" },
   { negara: "AUSTRALIA", img: "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg" },
   { negara: "INGGRIS", img: "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" },
   { negara: "JERMAN", img: "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" },
@@ -96,3 +96,4 @@ function updateHighscore() {
 }
 
 showFlag();
+
