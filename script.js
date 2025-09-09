@@ -17,9 +17,7 @@ const flags = [
   { negara: "THAILAND", img: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" },
   { negara: "FILIPINA", img: "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" },
   { negara: "KOREA SELATAN", img: "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" },
-  { Manusia: "Jomblo", img: "https://www.facebook.com/photo/?fbid=188242784855709&set=a.124135681266420" },
   { negara: "INDIA", img: "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" },
-  
   { negara: "MESIR", img: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg" }
 ];
 
@@ -98,5 +96,6 @@ function updateHighscore() {
 }
 
 showFlag();
+
 
 
